@@ -1,0 +1,18 @@
+{
+	"folders": [{
+			"name": "App",
+			"path": "BudgetApp.App"
+		},
+		{
+			"name": "Functions",
+			"path": "BudgetApp.Functions"
+		},
+		{
+			"name": "Solution",
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
